@@ -14,5 +14,5 @@ Functionality was prioritized as it was my first time using Javascript
 ## Commits
 
  Second Commit => 
-    - Fixed bug where hands weren't clearing
-    - Fixed bug where multiple event listeners where add when starting multiple games
+ - Fixed bug where hands weren't clearing
+ - Fixed bug where multiple event listeners where add when starting multiple games
