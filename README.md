@@ -10,3 +10,9 @@ Functionality was prioritized as it was my first time using Javascript
 - Dealer auto-plays until reaching at least 17
 - Bust and win/tie/lose conditions
 - Visual feedback through DOM updates
+
+## Commits
+
+ Second Commit => 
+    - Fixed bug where hands weren't clearing
+    - Fixed bug where multiple event listeners where add when starting multiple games
