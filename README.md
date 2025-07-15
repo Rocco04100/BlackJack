@@ -3,6 +3,8 @@
 A simple browser-based Blackjack game built with HTML, CSS, and JavaScript. This project is designed to help me learn JavaScript DOM manipulation, event handling, and game logic.
 Functionality was prioritized as it was my first time using Javascript
 
+## [Watch the demo on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
 ## 🛠️ Features
 
 - Random card dealing from a virtual deck
